@@ -28,17 +28,17 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 585px;
-    width: 290px;
+    height: 545px;
+    width: 270px;
     background: url(../imagens/frame-iphone.png) no-repeat;
 }
 
 iframe#tela{
     position: relative;
-    top: 75px;
-    left: 21px;
-    width: 249px;
-    height: 440px;
+    top: 69px;
+    left: 19px;
+    width: 231px;
+    height: 410px;
 }
 
 section#redes-sociais{
